@@ -1,0 +1,34 @@
+body {  
+    font-family: Arial, sans-serif;  
+    background-color: #4e4444;   
+    color: #FFFFFF;  
+    margin: 0;  
+    padding: 20px;  
+}  
+
+.container {  
+    margin: auto;  
+    background-color: #4e4444;     
+    padding: 20px;  
+    border-radius: 8px;  
+}  
+
+h1 {  
+    color: #A3C1DA;  
+}  
+.highlight {  
+    font-weight: bold;
+    color: #FFD700;  
+}  
+
+ul, ol {  
+    margin: 10px 0;  
+}  
+.mood {  
+    width: 45%;  
+    border-radius: 8px;  
+}
+.vien{
+    border: 5px solid red; /* Đặt độ dày và màu sắc của viền */
+    height: 30px;
+}
